@@ -6,3 +6,6 @@ https://bottle-water.github.io/TonnetzACE/
 ### About
 The experiments were run in `fullresults.ipynb`, and are summarized in `results_summary.ipynb`
 HTML exports of both can be viewed at the github pages link above.
+
+### Kaggle Artifact
+https://www.kaggle.com/code/zburkett44/tonnetz-artifact
